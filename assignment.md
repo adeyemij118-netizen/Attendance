@@ -28,3 +28,14 @@ git log
 
 First Reason:  Clear messages make it easy to understand what and why a change was made without reading all the code.
 Second Reason:
+### SECTION 3:Remote Respositories & GitHub Integration
+Question 3.1 B
+Question 3.2 B
+### Part B
+Question 3.3 git push -u origin main
+Question 3.4 B
+### Part C
+question 3.5
+1.
+2. yes
+3. No
